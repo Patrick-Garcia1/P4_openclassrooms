@@ -1,0 +1,103 @@
+
+
+											Court audit préalable.
+
+Introduction:
+
+	Il y a l'utilisation de méthodes black hat direct et indirect. L'objectif du black hat est de se positionner "artificiellement" sur les premières page de Google. C'est une technique de référencement considérée comme discutable, non éthique et / ou punissable par les moteurs de recherche ou les professionnels du référencement. C'est contraire aux guidelines Google, sont souvent le fait de site à l'activité douteuse.
+	Les moteurs de recherche peuvent bannir les sites de leurs résultats de recherche pour avoir utilisé ces méthodes car les résultats qu'il présente peuvent nuir à son image/réputation/sérieux car cela démontrerait qu'il n'a aucune maitrise des résultats qu'il affiche.
+
+	Ce problème engendre des répercutions en cascade.
+
+	Adopter une méthode de design inclusif, au service de tous, même si rien n'est jamais parfait, élimine des problèmes qui sont eux aussi inclusifs, qui déservent tout le monde, l'accessibilité/ la performance / le référencement / l'entreprise.
+
+
+1. Détectez les problèmes importants:
+
+	-Non évalué:
+		*Avoir pour nom de domaine le nom de marque. 
+		*version principale? 
+		*contenu dupliqué? 
+
+	-Il n'y a pas de machine à contenu (porte d'entrée), donc pas d'effet linking interne.
+	-Il manque la méta name=robots (pour indexer les pages) qui est un outil de référencement essentiel pour informer les bons robots sur la manière dont vous voulez qu’ils traitent vos fichiers et vos contenus.
+	-Il n'y a pas de fichier sitemap mais la taille du site est trop petite, pour l'instant.
+	-Le temps de chargement est important.
+	-Le site n'est pas responsive.
+	-La forme visuelle de certains éléments du site est à améliorer (la liste annuaire importante et mal située...).
+
+	Recommandation générale:
+
+		-Il faut vérifier la sécurité du site autour des libraries js vulnérables et les attaques de type XSS par injection de données, non-persistants et persistants( hameçonnage, vol de cookies...) puis il faudrait désactiver la détection automatique du type des ressources (exploitation malveillante du MIME Sniffing)...
+
+2. Normes techniques dites "On-Page" (accessibilité, sa vitesse, sa version mobile; structure technique optimisée en SEO sur toutes les pages (titres, images, contenus)):
+
+	-Il n'y a pas de méta titre (doit contenir le mot clef de la page jusqu'à 70 caractères).
+	-Il n'y a pas de méta description (Google affiche entre 132 et 160 caractères. Il est conseillé d'en écrire un peu plus).
+	-La présence de la méta name:keywords est inutile (https://support.google.com/programmable-search/answer/2595557?hl=fr // https://www.definitions-seo.com/definition-de-balise-meta-keywords/).
+	-Il y a un manque de structure sémantique et trop de div dans la construction (pas de header/main/footer et des soucis via le css ...).
+	-Il y a un problème d'arborescence de titre.
+	-Il y a comme évoqué l'utilisation de pratiques black-hat.
+
+	Recommandation générale:
+
+		-Il faut stopper la pratique du black-hat, ne pas hésiter à supprimer des éléments inutiles pour simplifier le site, cela facilitera sa performance/son accessibilité/son référencement/sa lecture pour les moteurs de recherches et par les visiteurs.
+
+3. Examinez les positions de vos mots-clés:
+
+	-Il y a un problème de niveau de titre puis de mots clef contenus dans la page.
+
+	Recommandation générale:
+
+		-Installez Google Analytics et Google Search Console pour le site (évolution du trafic).
+		-Il faut effectuer une recherche mots clefs. 
+		-Il faut voir quels sont les mots clefs de la concurrence pour créer du contenu à partir des opportunités détectées.
+
+4. Vérifiez la qualité des liens existants et problème d'autorité:
+
+	-Les liens de réseaux sociaux ne sont pas liés au comptes (les pages entreprises sont elles créées? et en mode public?).
+	-Des liens s'apparentent à du spam et les liens annuaires et partenaires sont contre productifs:
+		*Cela minimise tout autre lien LinkJuice.
+		*Il y a des constructions de liens qui ne sont pas liés.
+
+	Recommandation générale:
+
+
+		-Il faut créer des liens qui soient le plus naturels possible:
+			*Ils doivent être cohérent par rapport au domaine de métier/service (proposer du contenu utile ou en échanger, pour des blogueurs, des potentiels partenaires non concurrents, en les contactant).
+			*Il faut créer des liens gagnant-gagnant vers des partenaires cohérant au secteur (pas chez pizza.com).
+			*Il faut créer des liens sur les sites qui parle de vous (qui en parle? ===> google alerte).
+
+		-Il faut remplir les annuaires du secteur (c'est de moins en moins pris en compte par google).
+		-Il faut créer un compte Google My Business (profil d'établissement).
+		-Il faut ajouter en page contact le téléphone et la carte d'emplacement.
+					
+					
+Conclusion:
+
+	Sachez que d'autres optimisations, autres que les 10 programmées, sont possibles; comme vous avez pu le constater dans cet audit préalable, nous vous avons donné gracieusement certaines pistes à explorer, votre réussite nous importe, et si dans l'avenir vous vouliez acquérir une maitrise plus poussée sur vos outils, nous serons là pour mettre notre expertise à votre service. 
+
+
+
+
+
+																	Outils
+
+Les outils utilisés:
+
+	- Wave.
+	- Axe.
+	- Web.dev.
+	- Dareboost.
+	- NVDA.
+	- NU.
+	- Jigsaw.
+	- Tableau test d'accessibilité.
+	- Contrôle manuel. 
+	- Inspecteur.
+	- lighthouse
+
+
+					
+
+				
